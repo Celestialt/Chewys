@@ -57,3 +57,7 @@ group :development, :test do
 end
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
+
+gem 'devise'
+
+gem 'simple_form'
